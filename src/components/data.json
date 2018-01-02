@@ -1,0 +1,36 @@
+{
+    "images": [
+        {
+            "id": "1",
+            "url": "cat_1.jpeg"
+        },
+        {
+            "id": "2",
+            "url": "cat_2.jpeg"
+        },
+        {
+            "id": "3",
+            "url": "cat_3.jpeg"
+        },
+        {
+            "id": "4",
+            "url": "cat_4.jpeg"
+        },
+        {
+            "id": "5",
+            "url": "cat_5.jpeg"
+        },
+        {
+            "id": "6",
+            "url": "cat_6.jpeg"
+        },
+        {
+            "id": "7",
+            "url": "cat_7.jpeg"
+        },
+        {
+            "id": "8",
+            "url": "cat_8.jpeg"
+        }
+    ]
+}
